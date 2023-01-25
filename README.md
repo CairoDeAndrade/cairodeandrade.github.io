@@ -1,3 +1,3 @@
-# Portifolio
-Portifolio de apresentação profissional.
+# Portfolio
+Portfolio de apresentação profissional.
 Acesse: https://cairodeandrade.github.io
